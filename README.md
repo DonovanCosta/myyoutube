@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### install necessary packages
-To install the necessary packages, in the project directory run the command to 'npm install' to install all the necessary packages.
+To install the necessary packages, in the project directory run the command to 'npm install'.
 
 To run you can use the command:
 
