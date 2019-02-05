@@ -59,10 +59,10 @@ class App extends Component {
     return (
 
         <div className="main">
-            <Container>
+            <Container className="bg-light">
                 {/* header  */}
-                <Row className="mb-3">
-                    <Col md={{size:8, offset:2 }}className="text-center">
+                <Row className="mb-3 header">
+                    <Col md="12" className="text-center bg-dark">
                         <h1>MYyoutube</h1>
                     </Col>
                 </Row>    
