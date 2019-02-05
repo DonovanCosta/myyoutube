@@ -17,9 +17,9 @@ class App extends Component {
         this.onTermSubmit = this.onTermSubmit.bind(this);
       }
     
-      componentDidMount() {
-        this.onTermSubmit('berlin')
-      }
+    //   componentDidMount() {
+    //     this.onTermSubmit('berlin')
+    //   }
 
     
     // function that submits the users serach term to the youtube api 
