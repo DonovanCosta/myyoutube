@@ -1,0 +1,19 @@
+/* main div */
+.main{
+    padding-top: 2em;
+}
+
+/****
+video player loading
+******/
+.videoloading{
+    width: 100%;
+    height: 350px;
+}
+/****
+video list 
+******/
+
+.videolist .card{
+    margin-bottom: 1em;
+}
